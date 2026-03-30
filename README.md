@@ -11,5 +11,5 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/904119939428929587/1372392482045956277/8wl2qqz.jpg?ex=68269b99&is=68254a19&hm=f829faaf1e23343c52c9a7b9ee4dd65e4b58ff37dd0b76c5d89453f5397930fc&" height="300">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/SCP_Foundation_Logo_v2_Fixed.png" height="300">
 </p>
