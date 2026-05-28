@@ -1,9 +1,3 @@
-<p align="center">⪩ <a href="https://flintboy.straw.page/" style="color: #FF0000;">STRAWPAGE!</a> ⪨</p>
-
-<p align="center"> Click <a href="https://toyhou.se/33157999.hans-raynier" >HERE!</a> for my SCP OC's Toyhou.se profile! ( Click <a href="https://toyhou.se/flintdunbar" >HERE</a> for my normal Toyhou.se profile ) </p>
-
-<p align="center"> <a href="https://flintban.atabook.org/">ATABOOK!</a> </p>
-
 <p align="center"> <a href="https://www.last.fm/user/flintban"><img src="https://lastfm-recently-played.vercel.app/api?user=flintban&footer_style=compact_stats&count=1&width=500&loved=true&header_style=none&bg_color=B42E3B"></a> </p>
 
 <p align="center">
