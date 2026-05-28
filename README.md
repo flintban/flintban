@@ -1,3 +1,5 @@
+I am a system. Good luck lmao
+
 <p align="center"> <a href="https://www.last.fm/user/flintban"><img src="https://lastfm-recently-played.vercel.app/api?user=flintban&footer_style=compact_stats&count=1&width=500&loved=true&header_style=none&bg_color=B42E3B"></a> </p>
 
 <p align="center">
