@@ -1,7 +1,7 @@
 <p align="center"> <a href="https://www.last.fm/user/flintban"><img src="https://lastfm-recently-played.vercel.app/api?user=flintban&footer_style=compact_stats&count=1&width=500&loved=true&header_style=none&bg_color=B42E3B"></a> </p>
 <img width="2035" height="74" alt="image" src="https://github.com/flintban/Images/blob/main/boarder.png" />
 <img width="420" height="660" align="left" src="https://github.com/flintban/Images/blob/main/Replace1.png" />
-<h3 align="center"> <img width="420" height="270"  src="https://github.com/flintban/Images/blob/main/beforeyouint.png" /> </h3>
+<h3 align="center"> <img width="400" height="270"  src="https://github.com/flintban/Images/blob/main/beforeyouint.png" /> </h3>
 <h5 align="left"> - I'm into a lot of media some might not be comfortable with, feel free to hide/block me.</h4>
 <h5 align="left"> --- Feel free to use tone tags with me, I don't mind. </h4>
 <h5 align="left"> - Open to discussion / respectable arguments.
