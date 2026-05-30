@@ -31,3 +31,7 @@
 <summary><h3 align="left">>> Kin List</summary>
 Peter Dunbar, Viper (TF2), Spamton, SCP-2521, Sebastian Solace, Ulgrin (SCP:CB)
 </details>
+<h5 align="left"><details>
+<summary><h3 align="left">>> Self/Yumeship List</summary>
+The Crooked (Pressure), Husk (Nullscape), Ticket Taker/Bilheteiro (TFC), Cloaker (PD2/3)
+</details>
