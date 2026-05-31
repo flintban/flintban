@@ -32,7 +32,7 @@
 <h5 align="left"> ▶︎ Keep harmful opinions to yourself, as long as you don't bring it up I don't care.
 </details>
 <img width="2035" height="74" alt="image" src="https://github.com/flintban/Images/blob/main/boarder.png" />
-<img width="450" height="500" align="right" src="https://github.com/flintban/Images/blob/main/0355.png" />
+<img width="400" height="500" align="right" src="https://github.com/flintban/Images/blob/main/0355.png" />
 <h3 align="left"><img  width="400" height="270" src="https://github.com/flintban/Images/blob/main/aboutme.png" />
 <h5 align="left"><details>
 <summary><h3 align="left">ABOUT ME</summary>
