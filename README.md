@@ -46,11 +46,11 @@
 
 </h5></h5></h5></br>
 <h6 align="center"><img width="300" height="250" src="https://github.com/flintban/Images/blob/main/interests.png" />
-<h3 align="left"> ▶︎ Games, unlimited games - but no games. 
-<h5 align="left"> Roblox ▶︎ Nullscape, Starfall, Depth Spelunking, Evil Plate Game, SCP:Roleplay, Dummies Vs Noobs, Hellmet, Michael's Zombies, TDS, Dandy's World, Dolly's Factory, Forsaken.
-<h5 align="left"> Other ▶︎ Warframe, PsychoJesus, Azur Lane, SCP: Fragmented Minds, War Thunder, Baldur's Gate, Payday 2/3, Ultrakill, Hotline Miami, Limbus Company, Titanfall 2, Ace Combat, yandere sims, and of course; the SCP writing collaberative.
-<h3 align="left"> ▶︎ Comfort Characters
-<h5 align="left"> Necro (PsychoJesus), Ryland Grace, Ghost (COD), BT-7274, Grendel (Warframe), SCP-096.
+<h3 align="center"> ⇨ Games, unlimited games - but no games. ⇦
+<h5 align="center"> Roblox ▶︎ Nullscape, Starfall, Depth Spelunking, Evil Plate Game, SCP:Roleplay, Dummies Vs Noobs, Hellmet, Michael's Zombies, TDS, Dandy's World, Dolly's Factory, Forsaken.
+<h5 align="center"> Other ▶︎ Warframe, PsychoJesus, Azur Lane, SCP: Fragmented Minds, War Thunder, Baldur's Gate, Payday 2/3, Ultrakill, Hotline Miami, Limbus Company, Titanfall 2, Ace Combat, yandere sims, and of course; the SCP writing collaberative.
+<h3 align="center"> ⇨ Comfort Characters ⇦
+<h5 align="center"> Necro (PsychoJesus), Ryland Grace, Ghost (COD), BT-7274, Grendel (Warframe), SCP-096.
 
 <img width="2035" height="74" alt="image" src="https://github.com/flintban/Images/blob/main/boarder.png" />
 
