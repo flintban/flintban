@@ -8,7 +8,7 @@
 
 <img height="660" align="left" src="https://github.com/flintban/Images/blob/main/Side1.png" />
 <img height="660" align="right" src="https://github.com/flintban/Images/blob/main/side2.png" />
-<img width="400" height="660" align="center" src="https://github.com/flintban/Images/blob/main/Replace1.png" />
+<img width="350" height="660" align="center" src="https://github.com/flintban/Images/blob/main/Replace1.png" />
 
 
 <img width="2035" height="74" alt="image" src="https://github.com/flintban/Images/blob/main/boarder.png" />
