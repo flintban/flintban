@@ -62,3 +62,28 @@ Peter Dunbar, Viper (TF2), Spamton, SCP-2521, Sebastian Solace, Ulgrin (SCP:CB)
 <summary><h3 align="center"> ❤︎ Self/Yumeship List ❤︎</summary>
 The Crooked (Pressure), Husk (Nullscape), Ticket Taker/Bilheteiro (TFC), Cloaker (PD2/3)
 </details>
+
+<h5 align="center"><details>
+<summary><h3 align="center"> OC's you see, their orginal refrencesheets.</summary>
+<img align="right" src="https://github.com/flintban/Images/blob/main/pony-town-%E2%98%84UlgrinPonE%F0%9F%92%80-boop-sit-blinking-padded-4x.gif">
+<img align="center" src="https://github.com/flintban/Images/blob/main/clickapony.gif">
+<a href="https://toyhou.se/flintdunbar">
+  <img align="left" src="https://github.com/flintban/Images/blob/main/pony-town-%F0%9F%8D%95flint%20-%20sona-boop-sit-blinking-padded-ponyplush-4x.gif">
+</a>
+<img width="2035" height="74" alt="image" src="https://github.com/flintban/Images/blob/main/boarder.png" />
+<a href="https://toyhou.se/39611937.pulcinell#120802122">
+  <img align="left" src="https://github.com/flintban/Images/blob/main/pony-town-Pulcinell_-_TFC_OC_he_him-sit-6-frames-blinking-padded-4x.png" alt="Pulcinell">
+</a>  
+<a href="https://toyhou.se/33157999.hans-raynier">
+  <img width="150" height="230" align="left" src="https://github.com/flintban/Images/blob/main/pony-town-Dr-%20Hans%20Raynier%20__%20SCP%20%5BOC%5D-lie-blinking-padded-ponyplush-4x.gif">
+</a> 
+<a href="https://toyhou.se/33157680.wolfgang">
+  <img width="200" height="230" align="left" src="https://github.com/flintban/Images/blob/main/pony-town-%F0%9F%A6%88%20Wolfg%C3%A4ng%20__%20Fursona%20%F0%9F%90%B6-yawn-blinking-padded-4x.gif">
+</a>
+<a href="https://toyhou.se/34399407.euclid">
+  <img width="190" height="230" align="left" src="https://github.com/flintban/Images/blob/main/pony-town-%F0%9F%8D%95the%20big%20U(lgrin)-trot-blinking-padded-4x.gif">
+</a>
+<a href="https://toyhou.se/33200295.arlong#100592218">
+  <img width="190" height="230" align="left" src="https://github.com/flintban/Images/blob/main/pony-town-%F0%9F%8C%8A%20Arlong%20__%20OC%20%F0%9F%A6%88-sit-blinking-padded-ponyplush-4x.gif">
+</a>
+</details>
