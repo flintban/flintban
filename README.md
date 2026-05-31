@@ -1,4 +1,5 @@
 <h3 align="center"> Dial <a href="https://guns.lol/ulgrin">1-800-IWANNADIE</a> if it's urgent and you needa bitch STAT.</h3>
+<h3 align="center"> Please give me some time to revamp this page. -Gabriel </h3>
 <p align="center"> <a href="https://www.last.fm/user/flintban"><img src="https://lastfm-recently-played.vercel.app/api?user=flintban&footer_style=compact_stats&count=1&width=500&loved=true&header_style=none&bg_color=B42E3B"></a> </p>
 <img width="2035" height="74" alt="image" src="https://github.com/flintban/Images/blob/main/boarder.png" />
 <img width="420" height="660" align="left" src="https://github.com/flintban/Images/blob/main/Replace1.png" />
