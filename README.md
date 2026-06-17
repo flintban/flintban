@@ -91,4 +91,6 @@ Peter Dunbar, Viper (TF2), Spamton, SCP-2521, Sebastian Solace, Ulgrin (SCP:CB)
 <a href="https://toyhou.se/33200295.arlong#100592218">
   <img width="190" height="230" align="left" src="https://github.com/flintban/Images/blob/main/pony-town-%F0%9F%8C%8A%20Arlong%20__%20OC%20%F0%9F%A6%88-sit-blinking-padded-ponyplush-4x.gif">
 </a>
+<a href="https://toyhou.se/39923710.cross-slenderman-proxy#121825209">
+  <img width="190" height="230" align="left" src="https://github.com/flintban/Images/blob/main/pony-town-%E2%9D%8C%E1%B4%84%CA%80%E1%B4%8F%EA%9C%B1%EA%9C%B1%20%5B%E1%B4%84%CA%80%E1%B4%98%20%E1%B4%8F%E1%B4%84-%E1%B4%98%CA%80%E1%B4%8Fx%CA%8F%5D%F0%9F%9A%AB-trot-blinking-padded-4x.gif">
 </details>
