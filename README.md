@@ -63,7 +63,7 @@ Peter Dunbar, Viper (TF2), Spamton, SCP-2521, Sebastian Solace, Ulgrin (SCP:CB)
 </details>
 <h5 align="center"><details>
 <summary><h3 align="center"> ❤︎ Self/Yumeship List ❤︎</summary>
-[NONSHARING] The Crooked (Pressure) ||| [NONSHARING] Husk (Nullscape) ||| [SHARING] Ticket Taker/Bilheteiro (TFC) ||| [SHARING] Cloaker (PD2/3) ||| [NONSHARING] Slenderman (CRP/CRPCRDTS)
+[NONSHARING] The Crooked (Pressure) ||| [NONSHARING] Husk (Nullscape) ||| [SHARING] Ticket Taker/Bilheteiro (TFC) ||| [SHARING] Cloaker (PD2/3) ||| [NONSHARING] Slenderman (CRP/CRPCRDTS) || [NONSHARING] Offenderman...(sorry) (CRP/CRPCRDTS)
 </details>
 
 <h5 align="center"><details>
