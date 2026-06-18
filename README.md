@@ -26,6 +26,9 @@
 <h5 align="left"> ▶︎ Open to discussion / respectable arguments.
 <h5 align="left"> ▶︎ INT/C+H all you want if I'm AFK. </h4>
 <h5 align="left"> ▶︎ Other then Zoophilia/Pedophilia I do not have a DNI.
+<h5 align="left"> ▶︎ Do not label me as pro/anti ship, I know my own morals and I know the law - I do what I want and I do it safely.
+<h5 align="left"> ^ ▶︎ If you make me uncomfortable / you're annoying I'll just perma hide you lmao
+<h5 align="left"> ^^ I don't care about 'problematic' shit and if you try to label me as such for the stuff I participate in, I'll just hide you. ^^
 </details>
 <h5 align="left"><details>
 <summary><h3 align="center">PLEASE DON'T</summary>
@@ -33,6 +36,7 @@
 <h5 align="left"> ▶︎ Don't be weird/freaky it's not hard to NOT be a sex pest offender.
 <h5 align="left"> ▶︎ Don't copy any of my pones.
 <h5 align="left"> ▶︎ Keep harmful opinions to yourself, as long as you don't bring it up I don't care.
+<h2 align="left"> ▶︎ (18+ server) Adult media cosplays arn't consent. Weather I'm a gimp pony, Offenderman pony or any other adult media don't be fucking weird to me.
 </details>
 <img width="2035" height="74" alt="image" src="https://github.com/flintban/Images/blob/main/boarder.png" />
 <img width="400" height="500" align="right" src="https://github.com/flintban/Images/blob/main/0355.png" />
@@ -51,7 +55,7 @@
 <h6 align="center"><img width="300" height="250" src="https://github.com/flintban/Images/blob/main/interests.png" />
 <h3 align="center"> ⇨ Games, unlimited games - but no games. ⇦
 <h5 align="center"> Roblox ▶︎ Nullscape, Starfall, Depth Spelunking, Evil Plate Game, SCP:Roleplay, Dummies Vs Noobs, Hellmet, Michael's Zombies, TDS, Dandy's World, Dolly's Factory, Forsaken.
-<h5 align="center"> Other ▶︎ Warframe, PsychoJesus, Azur Lane, SCP: Fragmented Minds, War Thunder, Baldur's Gate, Payday 2/3, Ultrakill, Hotline Miami, Limbus Company, Titanfall 2, Ace Combat, yandere sims, and of course; the SCP writing collaberative.
+<h5 align="center"> Other ▶︎ Creepypasta, Warframe, PsychoJesus, Azur Lane, SCP: Fragmented Minds, War Thunder, Baldur's Gate, Payday 2/3, Ultrakill, Hotline Miami, Limbus Company, Titanfall 2, Ace Combat, yandere sims, and of course; the SCP writing collaberative.
 <h3 align="center"> ⇨ Comfort Characters ⇦
 <h5 align="center"> Necro (PsychoJesus), Ryland Grace, Ghost (COD), BT-7274, Grendel (Warframe), SCP-096.
 
