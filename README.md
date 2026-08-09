@@ -4,10 +4,6 @@
 <p align="center"> <a href="https://www.last.fm/user/flintban"><img src="https://lastfm-recently-played.vercel.app/api?user=flintban&footer_style=compact_stats&count=1&width=500&loved=true&header_style=none&bg_color=FF0000"></a> </p>
 
 <img width="2035" height="74" alt="image" src="https://github.com/flintban/Images/blob/main/boarder.png" />
-<h1 align="center"> Team Mystery on <a href="https://artfight.net/~notflint">ARTFIGHT!</a></h1>
-<img align="center" src="https://github.com/flintban/Images/blob/main/2026artfight.png" />
-<img width="2035" height="74" alt="image" src="https://github.com/flintban/Images/blob/main/boarder.png" />
-
 
 <img height="660" align="left" src="https://github.com/flintban/Images/blob/main/Side1.png" />
 <img height="660" align="right" src="https://github.com/flintban/Images/blob/main/side2.png" />
