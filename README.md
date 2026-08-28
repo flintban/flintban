@@ -2,7 +2,6 @@
 <img height= "40" align="left" src="https://github.com/flintban/Images/blob/main/tumblr_90f96844b0e4f5184c05803058999588_ed4e4575_75.webp" />
 <img height= "40" align="right" src="https://github.com/flintban/Images/blob/main/tumblr_90f96844b0e4f5184c05803058999588_ed4e4575_75.webp" />
 <p align="center"> <a href="https://www.last.fm/user/flintban"><img src="https://lastfm-recently-played.vercel.app/api?user=flintban&footer_style=compact_stats&count=1&width=500&loved=true&header_style=none&bg_color=FF0000"></a> </p>
-<p align="center"> Like creepypasta? Consider joining my <a href="https://t.me/+OOIRlL6PEfQ0NjNh">telegram channel!</a> (18+) </p>
 <img width="2035" height="74" alt="image" src="https://github.com/flintban/Images/blob/main/boarder.png" />
 
 <img height="660" align="left" src="https://github.com/flintban/Images/blob/main/Side1.png" />
